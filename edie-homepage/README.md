@@ -18,9 +18,7 @@
 
 ![screenshot](overview/edie-1440-min.png)
 <br>
-<br>
-<br>
-<br>
+
 ![screenshot](overview/edie-768&375-min.png)
 
 ## Features
