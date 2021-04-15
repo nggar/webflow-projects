@@ -16,10 +16,7 @@
 
 ## Overview
 
-![screenshot](overview/edie-1440-min.png)
-<br>
-
-![screenshot](overview/edie-768&375-min.png)
+![screenshot](overview/edie-mockup.png)
 
 ## Features
 
