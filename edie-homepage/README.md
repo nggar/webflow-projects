@@ -16,7 +16,10 @@
 
 ## Overview
 
-![screenshot](overview/edie-mockup.png)
+![screenshot](overview/1150.png)
+<br>
+<br>
+![screenshot](overview/mobile-tablet.png)
 
 ## Features
 
